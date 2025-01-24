@@ -5,7 +5,7 @@ from azure.core.credentials import AzureKeyCredential
 from azure.keyvault.secrets import SecretClient
 from azure.identity import ClientSecretCredential
 
-
+#change test
 def main():
     global cog_endpoint
     global cog_key
